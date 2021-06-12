@@ -30,4 +30,4 @@ To view the page click on the link below
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019.
+- This project is licensed under the MIT Open Source license Copyright.
