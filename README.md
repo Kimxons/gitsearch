@@ -1,5 +1,4 @@
 ## Description
-- 
 This project was generated with Angular CLI version 7.2.6. 
 This is a web app that allows users to search a github username and the users repositories will be displayed alongside his profile details.
 
@@ -16,7 +15,7 @@ This is a web app that allows users to search a github username and the users re
 
 
 - Clone  or download and unzip the repository from github, 
-[https://github.com/](https://github.com/).
+[https://github.com/Kimxons/gitsearch.git](https://github.com/Kimxons/gitsearch.git).
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve --open  from your terminal
 
